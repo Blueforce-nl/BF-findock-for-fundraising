@@ -1,6 +1,8 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=FinDockLabs&repo=findock-for-fundraising-flows&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Blueforce&amp;repo=NonProfit-Cloud">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png"></a>
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 
 ```text
 NOTE: to be able to deploy this project to your Salesforce production environment your overall test code coverage needs to meet Salesforce thresholds.
