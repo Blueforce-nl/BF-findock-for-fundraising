@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=Blueforce-nl&amp;repo=BF-findock-for-fundraising">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Blueforce-nl&amp;repo=BF-findock-for-fundraising&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
