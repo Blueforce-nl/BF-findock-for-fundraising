@@ -1595,7 +1595,7 @@
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
-    <sourceTemplate>frops_flow__MngGiftCmtSchd</sourceTemplate>
+    <sourceTemplate>frops_flow__ManageGiftCmtSchedule</sourceTemplate>
     <start>
         <locationX>2858</locationX>
         <locationY>0</locationY>
